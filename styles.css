@@ -5,8 +5,11 @@
 #mainHeading {
     color: aliceblue;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 64px;
+    font-size: 42px;
     font-weight: 500;
+    font-family: "Press Start 2P", system-ui;
+    font-style: normal;
+    filter: drop-shadow(5mm 3mm 5mm rgb(14, 210, 0));
 }
 
 .sectionHeading {
@@ -14,6 +17,7 @@
     font-family: Arial, Helvetica, sans-serif;
     font-size: 32px;
     font-weight: 600;
+    filter: drop-shadow(5mm 3mm 5mm rgb(14, 210, 0));
 }
 
 .copy {
