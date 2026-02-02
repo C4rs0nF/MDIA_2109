@@ -28,3 +28,42 @@
     color: aliceblue;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.imageContainer {
+    position: absolute;
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+
+#philImage {
+    position: relative;
+    scale: 0.5;
+    bottom: 25vh;
+    left: 3vw;
+    border: 10px solid white;
+    padding: 8px;
+    border-radius: 50px;
+}
+
+.pictureTitleContainer {
+    position: absolute;
+    margin-top: 65vh;
+    left: 45vw;
+    right: 40vw;
+}
+
+.pictureTitle {
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
+
+.genTitle {
+    text-align: center;
+    margin-left: 2vw;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: 600;
+    filter: drop-shadow(5mm 3mm 5mm rgb(14, 210, 0));
+}
