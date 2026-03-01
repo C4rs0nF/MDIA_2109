@@ -1,4 +1,4 @@
-<h1>**Term Project Action Plan**</h1>
+<h1>Term Project Action Plan</h1>
 
 <h3>Group Members</h3>
 For the term project this year, I am working with;
@@ -7,17 +7,17 @@ For the term project this year, I am working with;
 - @boofoo-png (Phil)
 - @Totram (Tracy)
 - @Runn-k (Runn). 
-We are designing a 2D isometric pixel art fishing game called: **Fishtopia**!
+We are designing a 2D isometric pixel art fishing game called: Fishtopia!
 
-<h2>**Our Project**</h2>
-*Fishtopia* is about this fella named Finn, who has to go and take possesion of his estranged grandfathers property before the bank takes it, located on a mysterious island, on your way there,
+<h2>Our Project</h2>
+Fishtopia is about this fella named Finn, who has to go and take possesion of his estranged grandfathers property before the bank takes it, located on a mysterious island, on your way there,
 your boat crashes ashore and you are stranded on the island! But besides that, it seems to be inhabited by strange cat-like people who have a hankering for fish, and thank goodness you've
 come along with your aposable thumbs, now you can fish for them!
 
 For this project, we are not developing any actual gameplay, most likely a prototype for sure, but nothing extremely complex, given our limited amount of not only knowledge but more especially
 time. One thing we will be making, is a detailed and polished website featuring all of the art, assets and mechanics of our game.
 
-<h2>**Personal Focus**</h2>
+<h2>Personal Focus</h2>
 For my contribution to this project, and for an action plan for this course as well, I want to focus on making the website as interactively interesting as possible, I'm talking abot some cool 
 paralaxing techniques, I want to implement some mouse adherant visuals and dynamic content displays to make navigating the site not only informative but also a lot of fun.
 
