@@ -1,13 +1,15 @@
-<h1>Term Project Action Plan</h1>
+# Term Project Action Plan
 
-<h3>Group Members</h3>
-For the term project this year, I am working with;
-- @athxena (Athena)
-- @nikkaAdrias (Nikka)
-- @boofoo-png (Phil)
-- @Totram (Tracy)
-- @Runn-k (Runn). 
-We are designing a 2D isometric pixel art fishing game called: Fishtopia!
+|**Group Members**|
+|-------------------------------|
+|Athena Zhu - @athxena|
+|Nikka Adrias - @NikkaAdrias|
+|Phillip Ho - @boofoo-png|
+|Tracy Tram - @T0tram|
+|Runn Keerativoranant - @Runn-k|
+
+
+We are designing a 2D isometric pixel art fishing game called: **Fishtopia!**
 
 <h2>Our Project</h2>
 Fishtopia is about this fella named Finn, who has to go and take possesion of his estranged grandfathers property before the bank takes it, located on a mysterious island, on your way there,
